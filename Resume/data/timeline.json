@@ -1,0 +1,66 @@
+[
+  {
+    "startdate": "2019-01-07",
+    "enddate": "2019-05-03",
+    "title": "- Deloitte USI India",
+    "shorttitle": "Risk and Advisory Intern",
+    "type": "job",
+    "glyph": "star",
+    "description": "<ul><li>Designed and developed a tool called Secure Kenna Access to automate the processes form Kenna Website using python and API Calls</li></ul>"
+  },
+  {
+    "startdate": "2018-12-01",
+    "enddate": "2018-06-01",
+    "title": "- Carrot Monk",
+    "shorttitle": "Web Developer Intern",
+    "type": "job",
+    "glyph": "star",
+    "description": "<ul><li>Web Development and Management Intern</li><li>Worked as an intern with web development and management teams for the Loyalty based rewards platform project start up </li></ul>"
+  },
+   {
+    "startdate": "2015-08-01",
+    "enddate": "2019-04-30",
+    "title": "- Jawaharlal Nehru Technological University",
+    "shorttitle": "Bachelors of Technology in Computer Science",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Bachelors of Technology in Computer Science </li><li>GPA: 8.81/10</li><li>Location: Hyderabad,India</li></ul>"
+  },
+
+  {
+    "startdate": "2019-08-22",
+    "enddate": "2021-05-01",
+    "title": "- Arizona State University",
+    "shorttitle": "Masters of Sciences in Computer Science (Big Data Systems)",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Masters of Sciences in Computer Science (Big Data Systems)</li><li>GPA:Nan</li><li>Location: Tempe,AZ.</li></ul>"
+  },
+  {
+    "startdate": "2019-08-25",
+    "enddate": "2019-11-24",
+    "title": "- Reposting Maps in Data Visualization ",
+    "shorttitle": "Masters of Science in Computer Science",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Developed a visualization of reposting Data taken from Twitter and weibo.</li><li>Developed in Javascript and d3. This visualization mainly focuses on the retweeted information.</li></ul>"
+  },
+  {
+    "startdate": "2019-08-22",
+    "enddate": "2019-11-20",
+    "title": "- Identifying similar data in multimedia Data ",
+    "shorttitle": "Masters of Science in Computer Science",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Worked on finding the similar images of a particular data using the Feature models.</li><li> Implemented in python </li></ul>"
+  },
+  {
+    "startdate": "2018-12-16",
+    "enddate": "2018-09-04",
+    "title": "- Emotion Analysis through Speech ",
+    "shorttitle": "Bachelors in Computer Science",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Developed a tool to analyse the speech of different people and identify their emotions using python and machine learning algorithms  </li></ul>"
+  }
+]
